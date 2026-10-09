@@ -9,6 +9,7 @@ Features:
 - special colouring for Gly, Pro, Cys and Trp
 - works on arbitrary PyMOL selections
 
+![PyMOL Ramachandran plot](rama.png)  
 Usage:
 
 run rama.py  
