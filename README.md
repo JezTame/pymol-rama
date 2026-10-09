@@ -12,7 +12,7 @@ Features:
 Usage:
 
 run rama.py  
-select test, chain A and resi 100-200
+select test, chain A and resi 100-200  
 rama test
 
 Requires:
